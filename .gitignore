@@ -1,4 +1,3 @@
 .ipynb_checkpoints/
-data/
-presets.pyc
 audio/
+y_test_pred_*
